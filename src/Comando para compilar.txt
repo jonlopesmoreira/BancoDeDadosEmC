@@ -3,4 +3,9 @@ g++ -I "C:\Program Files\PostgreSQL\9.4\include" -L "C:\Program Files\PostgreSQL
 
 Banco.exe host=localhost port=5432 dbname=joalheria user=jon password=159357
 
+
+
 Somente para estudos!
+
+
+é isso ai
